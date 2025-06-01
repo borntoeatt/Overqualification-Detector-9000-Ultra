@@ -1,0 +1,14 @@
+/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/bin/Debug/net9.0/OverqualificationDetector
+/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/bin/Debug/net9.0/OverqualificationDetector.deps.json
+/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/bin/Debug/net9.0/OverqualificationDetector.runtimeconfig.json
+/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/bin/Debug/net9.0/OverqualificationDetector.dll
+/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/bin/Debug/net9.0/OverqualificationDetector.pdb
+/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/obj/Debug/net9.0/OverqualificationDetector.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/obj/Debug/net9.0/OverqualificationDetector.AssemblyInfoInputs.cache
+/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/obj/Debug/net9.0/OverqualificationDetector.AssemblyInfo.cs
+/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/obj/Debug/net9.0/OverqualificationDetector.csproj.CoreCompileInputs.cache
+/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/obj/Debug/net9.0/OverqualificationDetector.dll
+/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/obj/Debug/net9.0/refint/OverqualificationDetector.dll
+/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/obj/Debug/net9.0/OverqualificationDetector.pdb
+/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/obj/Debug/net9.0/OverqualificationDetector.genruntimeconfig.cache
+/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/obj/Debug/net9.0/ref/OverqualificationDetector.dll
