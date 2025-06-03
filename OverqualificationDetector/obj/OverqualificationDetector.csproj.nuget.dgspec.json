@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/OverqualificationDetector.csproj": {}
+    "/Users/dimitarporkov/Desktop/Coding_and_scripting/OverqualificationDetector/OverqualificationDetector/OverqualificationDetector.csproj": {}
   },
   "projects": {
-    "/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/OverqualificationDetector.csproj": {
+    "/Users/dimitarporkov/Desktop/Coding_and_scripting/OverqualificationDetector/OverqualificationDetector/OverqualificationDetector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/OverqualificationDetector.csproj",
+        "projectUniqueName": "/Users/dimitarporkov/Desktop/Coding_and_scripting/OverqualificationDetector/OverqualificationDetector/OverqualificationDetector.csproj",
         "projectName": "OverqualificationDetector",
-        "projectPath": "/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/OverqualificationDetector.csproj",
+        "projectPath": "/Users/dimitarporkov/Desktop/Coding_and_scripting/OverqualificationDetector/OverqualificationDetector/OverqualificationDetector.csproj",
         "packagesPath": "/Users/dimitarporkov/.nuget/packages/",
-        "outputPath": "/Users/dimitarporkov/Desktop/Coding and scripting/OverqualificationDetector/obj/",
+        "outputPath": "/Users/dimitarporkov/Desktop/Coding_and_scripting/OverqualificationDetector/OverqualificationDetector/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dimitarporkov/.nuget/NuGet/NuGet.Config"

@@ -62,7 +62,7 @@ namespace OverqualificationDetector
         {
             Console.WriteLine("|=========================================|");
             Console.WriteLine("|       Welcome to the Overqualification  |");
-            Console.WriteLine("|       Detector 9000 Ultra - Version 1.0 |");
+            Console.WriteLine("|       Detector 9000 Ultra - Version 2.0 |");
             Console.WriteLine("|=========================================|");
             Console.WriteLine("|       This program will determine if    |");
             Console.WriteLine("|     you are overqualified for your job. |");
