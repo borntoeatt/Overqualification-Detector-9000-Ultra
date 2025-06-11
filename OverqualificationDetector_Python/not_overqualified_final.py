@@ -73,7 +73,7 @@ def animated_disqualification_report():
     time.sleep(1)
 
 def main():
-    print("\n🧠 Welcome to *Not Overqualified™* - the definitive job-fit analyzer.\n")
+    print("\n🧠 Welcome to *OVERQUALIFICATION DETECTOR 9000™* - the definitive job-fit analyzer.\n")
     separator()
 
     print("Please provide the following details so we can ignore them:\n")
@@ -109,7 +109,7 @@ def main():
     export_report_txt()
 
     separator()
-    print("Thank you for using *Not Overqualified™*. We hope it was as pointless for you as it was for us.\n")
+    print("Thank you for using *OVERQUALIFICATION DETECTOR 9000™*. We hope it was as pointless for you as it was for us.\n")
 
 if __name__ == "__main__":
     try:
