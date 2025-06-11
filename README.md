@@ -1,29 +1,44 @@
-# 🧠 Not Overqualified™
+# 🧠 Overqualification Detector 9000 Ultra
 
-*A totally unnecessary, 100% fake software solution to a problem no one has.*
+*A high-powered, completely unnecessary diagnostic tool to determine if you're overqualified — spoiler: you're not.*
 
-## 🎯 What is this?
+## 🪄 What is this?
 
-**Not Overqualified™** is a parody program that takes in your professional information — skills, certifications, experience, whatever — and always returns one cold, hard truth:
+The **Overqualification Detector 9000 Ultra** is a satirical C# console app designed to humorously simulate a corporate-grade, AI-powered qualification analysis. You input absolutely anything... and it still tells you you're not overqualified. Because that's how it works.
 
-> ❌ You are NOT overqualified.
+> ⚠️ This is fake. But proudly fake. Built for laughs, not logic.
 
-It's a satire of resume screening, job application tools, and maybe life in general. Built entirely for fun, with no real purpose except to exist.
+---
 
-## 🛠 How It Works
+## 🚀 How It Works
 
-You enter any combination of:
-- 💼 Work experience
-- 📜 Certifications
-- 💡 Skills
-- 🎓 Degrees
-- 🧪 Superpowers
+### Step 1
+You type random thoughts or real credentials.
 
-Then the app confidently informs you: *You are not overqualified.* (No matter what you entered. Seriously.)
+### Step 2
+The program pretends to:
+- Boot a diagnostic engine
+- Link with the "HR AI"
+- Authenticate your life choices
+- Consult the "HR Oracle"
+- Calibrate humility sensors™
 
-## 🤷‍♂️ Why?
+### Step 3
+It concludes:
+> **"You are not overqualified; you simply haven’t unlocked your full potential yet!"**
 
-Because sometimes code should just make you laugh.
+---
+
+## 🧪 Running the Program
+
+### Requirements:
+- [.NET SDK](https://dotnet.microsoft.com/download) (any version that supports C# 8+)
+
+### To Build and Run:
+```bash
+dotnet build
+dotnet run
+
 
 ## ⚖️ License
 
