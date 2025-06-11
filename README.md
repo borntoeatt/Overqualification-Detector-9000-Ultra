@@ -38,3 +38,16 @@ It concludes:
 ```bash
 dotnet build
 dotnet run
+
+```
+
+⚖️ License
+This project is licensed under the MIT License.
+
+© 2025 Dimitar Porkov
+
+📌 Disclaimer
+This software is a parody. It is not intended for actual job evaluation, hiring, or any real-world use case. Please do not take it seriously — we certainly didn't.
+
+❤️ Contributing
+Pull requests are welcome, especially if they make it funnier.
