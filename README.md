@@ -31,13 +31,27 @@ It concludes:
 
 ## 🧪 Running the Program
 
-### Requirements:
+### Requirements for C#:
 - [.NET SDK](https://dotnet.microsoft.com/download) (any version that supports C# 8+)
+Open program directory for example: "cd Desktop/Coding_and_scripting/OverqualificationDetector/" in the terminal and type "dotnet run Program.cs
+You will see the following screen:
+<img width="434" height="234" alt="dotnet" src="https://github.com/user-attachments/assets/77cc74f4-b93f-4732-ab9c-3f194d144f5a" />
+Write all your experience and when you are ready simply type "ready" and the magic will happen.
 
 ### To Build and Run:
 ```bash
 dotnet build
 dotnet run
+
+```
+
+```
+For Python version of the # 🧠 Overqualification Detector 9000 Ultra
+Open program directory for example: cd Desktop/Coding_and_scripting/OverqualificationDetector_Python and type "python3 not_overqualified_final.py" and press enter.
+
+You will see the following screen:
+<img width="609" height="201" alt="Python" src="https://github.com/user-attachments/assets/a153f3b3-5fb2-463f-a8be-49c13eff82ec" />
+Fill all the fields, and let the magic happen and the tool will tell you if you are overqualified ;]
 
 ```
 
