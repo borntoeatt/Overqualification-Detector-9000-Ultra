@@ -1,67 +1,79 @@
-# 🧠 Overqualification Detector 9000 Ultra
 
-*A high-powered, completely unnecessary diagnostic tool to determine if you're overqualified — spoiler: you're not.*
+# 🧠 Overqualification Detector 9000 Ultra  
 
-## 🪄 What is this?
+![Overqualified?](https://img.shields.io/badge/Overqualified-Never-red)  
+![HR Oracle](https://img.shields.io/badge/HR_Oracle-Consulted-success)  
+![Just for Fun](https://img.shields.io/badge/Parody-100%25-ff69b4)  
 
-The **Overqualification Detector 9000 Ultra** is a satirical C# console app designed to humorously simulate a corporate-grade, AI-powered qualification analysis. You input absolutely anything... and it still tells you you're not overqualified. Because that's how it works.
 
-> ⚠️ This is fake. But proudly fake. Built for laughs, not logic.
+===============================================
+🚀 Overqualification Detector 9000 Ultra 🚀
+"The ultimate diagnostic tool nobody asked for"
+
+*A completely unnecessary tool to check if you’re overqualified.  
+Spoiler: you’re not.*  
 
 ---
 
-## 🚀 How It Works
+## 🪄 What Is This?
 
-### Step 1
-You type random thoughts or real credentials.
+The **Overqualification Detector 9000 Ultra** is a parody C# / Python console app.  
 
-### Step 2
-The program pretends to:
-- Boot a diagnostic engine
-- Link with the "HR AI"
-- Authenticate your life choices
-- Consult the "HR Oracle"
-- Calibrate humility sensors™
+You can enter anything — credentials, random thoughts, your cat’s resume —  
+and it will *always* tell you:  
 
-### Step 3
-It concludes:
 > **"You are not overqualified; you simply haven’t unlocked your full potential yet!"**
 
 ---
 
 ## 🧪 Running the Program
 
-### Requirements for C#:
-- [.NET SDK](https://dotnet.microsoft.com/download) (any version that supports C# 8+)
-Open program directory for example: "cd Desktop/Coding_and_scripting/OverqualificationDetector/" in the terminal and type "dotnet run Program.cs
-You will see the following screen:
-<img width="434" height="234" alt="dotnet" src="https://github.com/user-attachments/assets/77cc74f4-b93f-4732-ab9c-3f194d144f5a" />
-Write all your experience and when you are ready simply type "ready" and the magic will happen.
+### ▶️ C# Version
 
-### To Build and Run:
+Requirements:  
+- [.NET SDK](https://dotnet.microsoft.com/download) (C# 8+)  
+
+**Run it:**  
 ```bash
-dotnet build
-dotnet run
-
+cd Desktop/Coding_and_scripting/OverqualificationDetector/
+dotnet run Program.cs
 ```
 
-```
-For Python version of the # 🧠 Overqualification Detector 9000 Ultra
-Open program directory for example: cd Desktop/Coding_and_scripting/OverqualificationDetector_Python and type "python3 not_overqualified_final.py" and press enter.
 
-You will see the following screen:
+Sample screen:
+
+<img width="434" height="234" alt="dotnet" src="https://github.com/user-attachments/assets/77cc74f4-b93f-4732-ab9c-3f194d144f5a" />
+
+Type your life story, then ready → enjoy the verdict.
+
+🐍 Python Version
+
+Requirements:
+
+Python 3.x
+
+***Run it:***
+```
+cd Desktop/Coding_and_scripting/OverqualificationDetector_Python
+python3 not_overqualified_final.py
+```
+
+Sample screen:
+
 <img width="609" height="201" alt="Python" src="https://github.com/user-attachments/assets/a153f3b3-5fb2-463f-a8be-49c13eff82ec" />
-Fill all the fields, and let the magic happen and the tool will tell you if you are overqualified ;]
 
-```
+Fill in the fields → magic happens → same verdict.
 
 ⚖️ License
-This project is licensed under the MIT License.
 
-© 2025 Dimitar Porkov
+MIT License © 2025 Dimitar Porkov
 
 📌 Disclaimer
-This software is a parody. It is not intended for actual job evaluation, hiring, or any real-world use case. Please do not take it seriously — we certainly didn't.
+
+This is a parody project.
+Not for hiring, job applications, or real-world use.
+If you’re using this in an interview, good luck… you’ll need it.
 
 ❤️ Contributing
-Pull requests are welcome, especially if they make it funnier.
+
+Pull requests are welcome — especially if they make it funnier or more absurd.
