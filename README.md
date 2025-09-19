@@ -6,7 +6,8 @@
 ![Just for Fun](https://img.shields.io/badge/Parody-100%25-ff69b4)  
 
 
-===============================================
+===========================================================================================
+
 🚀 Overqualification Detector 9000 Ultra 🚀
 "The ultimate diagnostic tool nobody asked for"
 
@@ -63,6 +64,10 @@ Sample screen:
 <img width="609" height="201" alt="Python" src="https://github.com/user-attachments/assets/a153f3b3-5fb2-463f-a8be-49c13eff82ec" />
 
 Fill in the fields → magic happens → same verdict.
+
+===========================================================================================
+
+
 
 ⚖️ License
 
